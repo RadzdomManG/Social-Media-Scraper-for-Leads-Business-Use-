@@ -1,0 +1,54 @@
+{
+  "linkedin_public | teacher | cebu city, philippines | teacher, educator, professor | ": [
+    {
+      "Platform": "LinkedIn",
+      "Keyword Match": "professor",
+      "Result Title": "Audrey Morallo - Assistant Professor - University of the Philippines | LinkedIn",
+      "Result Snippet": "",
+      "Profile URL": "https://www.linkedin.com/in/audrey-morallo/",
+      "Search Query": "teacher",
+      "Location": "Cebu City, Philippines",
+      "Date Scraped": "2026-03-29 07:28:28"
+    },
+    {
+      "Platform": "LinkedIn",
+      "Keyword Match": "teacher",
+      "Result Title": "TeacherOn.com | LinkedIn",
+      "Result Snippet": "",
+      "Profile URL": "https://in.linkedin.com/company/teacheron-com",
+      "Search Query": "teacher",
+      "Location": "Cebu City, Philippines",
+      "Date Scraped": "2026-03-29 07:28:29"
+    },
+    {
+      "Platform": "LinkedIn",
+      "Keyword Match": "teacher",
+      "Result Title": "Teacher Tribe | LinkedIn",
+      "Result Snippet": "",
+      "Profile URL": "https://in.linkedin.com/company/teachertribe",
+      "Search Query": "teacher",
+      "Location": "Cebu City, Philippines",
+      "Date Scraped": "2026-03-29 07:28:29"
+    },
+    {
+      "Platform": "LinkedIn",
+      "Keyword Match": "teacher",
+      "Result Title": "La Teacher | LinkedIn",
+      "Result Snippet": "",
+      "Profile URL": "https://www.linkedin.com/company/la-teacher",
+      "Search Query": "teacher",
+      "Location": "Cebu City, Philippines",
+      "Date Scraped": "2026-03-29 07:28:29"
+    },
+    {
+      "Platform": "LinkedIn",
+      "Keyword Match": "teacher",
+      "Result Title": "Teacher's Teacher, LLC | LinkedIn",
+      "Result Snippet": "",
+      "Profile URL": "https://www.linkedin.com/company/teacher-s-teacher-llc",
+      "Search Query": "teacher",
+      "Location": "Cebu City, Philippines",
+      "Date Scraped": "2026-03-29 07:28:29"
+    }
+  ]
+}
